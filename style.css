@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    font-size: 66px;
+    color: brown;
+}
+
+h3{
+    background-color: rgb(7, 11, 20);
+    color: rgb(117, 253, 185);
+}
