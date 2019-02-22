@@ -54,7 +54,7 @@ table {
 body{ 
     /* 禁止觸控長按 */
     -webkit-user-select:none;-webkit-touch-callout:none;-moz-user-select: none;
-    font-family: 'jf-jinxuan-fresh2.2-medium';
+    font-family: 'Noto Sans TC Black';
     height: 100%;
 }
 
@@ -139,6 +139,13 @@ footer{
         font-size: 0.8em;
         font-weight: 200;
         letter-spacing: 0.8px;
+    }
+
+    .w001{
+        color: rgb(55, 92, 172);
+        font-size: 4em;
+        background-color: rgb(222, 235, 43);
+        font-weight: 900;
     }
 
     .w100{
