@@ -54,7 +54,7 @@ table {
 body{ 
     /* 禁止觸控長按 */
     -webkit-user-select:none;-webkit-touch-callout:none;-moz-user-select: none;
-    font-family: 'Noto Sans TC Black';
+    font-family: 'Noto Sans TC';
     height: 100%;
 }
 
